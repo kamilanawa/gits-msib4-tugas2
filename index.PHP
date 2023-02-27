@@ -17,7 +17,7 @@
     <!-- NAVBAR -->
     <nav class="navbar navbar-expand-lg navbar-dark shadow-sm fixed-top" style="background-color: rgb(176, 122, 227)">
       <div class="container">
-        <a class="navbar-brand" href="#">Mila </a>
+        <a class="navbar-brand" href="#">Mila Nawa</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,9 +31,6 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#Education">Education</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#Hobby">Hobby</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#Contact">Contact</a>
@@ -121,45 +118,6 @@ Memiliki Technical Thinking yang bagus, Bisa bekerja sama secara tim maupun mand
     </section>
 
     <!-- AKHIR Education -->
-    <!-- Hobby -->
-    <section id="Hobby">
-      <div class="container">
-        <div class="row text-center">
-          <div class="col">
-            <h2>My Hobby</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-4">
-            <div class="card">
-              <img src="img/2.jpg" class="card-img-top" alt="Hobby2" />
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-4">
-            <div class="card">
-              <img src="img/3.jpg" class="card-img-top" alt="Hobby3" />
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-4">
-            <div class="card">
-              <img src="img/2.jpg" class="card-img-top" alt="Hobby2" />
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,64L48,69.3C96,75,192,85,288,85.3C384,85,480,75,576,90.7C672,107,768,149,864,144C960,139,1056,85,1152,64C1248,43,1344,53,1392,58.7L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
-    </section>
-
-    <!-- AKHIR Hobby -->
 
     <!--Contact-->
     <section id="Contact">
